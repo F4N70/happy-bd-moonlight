@@ -30,7 +30,7 @@ function App() {
           Te quedan {count} años de vida
         </button>
         <p style={{ color: "#ffa860" }}>
-          Cuando sales con un programador con ideas pero sin ganas
+          Cuando sales con un programador con potencial pero sin dinero :(
         </p>
       </div>
       <p style={{ color: "#ffffff" }}>
