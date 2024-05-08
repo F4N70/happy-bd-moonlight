@@ -48,10 +48,10 @@ function App() {
         <p>Dale play!</p>
       </div>
       <div>
-        <a href="https://vitejs.dev" target="_blank">
+        <a href="https://www.nationalgeographic.com.es/mundo-animal/aranas-azules-son-tan-extranas-como-parecen_20804" target="_blank">
           <img src={viteLogo} className="logo" alt="Vite logo" />
         </a>
-        <a href="https://react.dev" target="_blank">
+        <a href="https://www.youtube.com/watch?v=FLMVB0B1_Ts" target="_blank">
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
@@ -64,7 +64,7 @@ function App() {
           Cuando sales con un programador con potencial pero sin dinero :(
         </p>
       </div>
-      <p style={{ color: "#ffffff" }}>
+      <p style={{ color: "#ffffff" , textShadow: "2px 2px 4px rgba(0, 0, 0, 0.9)"}}>
         Aquí es sólo el comienzo...<br /><br />
 
         En tus ojos <br />
